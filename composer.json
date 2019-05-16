@@ -1,0 +1,11 @@
+{
+    "name": "hosein/slider",
+    "description": "this is slider package",
+    "authors": [
+        {
+            "name": "HosseinDehghan",
+            "email": "h.dehghan72@yahoo.com"
+        }
+    ],
+    "require": {}
+}
